@@ -1,1 +1,2 @@
-This is master.txt
+This is master.txt 
+Hello world
